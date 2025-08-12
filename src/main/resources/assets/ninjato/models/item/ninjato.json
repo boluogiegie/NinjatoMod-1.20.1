@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+      "layer0": "ninjato:item/ninjato"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "ninjato:item/ninjato_blocking"
+    }
+  ]
+}

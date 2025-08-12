@@ -1,0 +1,122 @@
+{
+  "nachuwuqi": {
+    "subtitle": "sounds.ninjato.equip",
+    "sounds": [
+      {
+        "name": "ninjato:nachuwuqi"
+      }
+    ]
+  },
+  "qingji1": {
+    "subtitle": "sounds.ninjato.light_swing",
+    "sounds": [
+      {
+        "name": "ninjato:qingji1"
+      }
+    ]
+  },
+  "qingji2": {
+    "subtitle": "sounds.ninjato.light_swing",
+    "sounds": [
+      {
+        "name": "ninjato:qingji2"
+      }
+    ]
+  },
+  "qingji3": {
+    "subtitle": "sounds.ninjato.light_swing",
+    "sounds": [
+      {
+        "name": "ninjato:qingji3"
+      }
+    ]
+  },
+  "qingji4": {
+    "subtitle": "sounds.ninjato.light_swing",
+    "sounds": [
+      {
+        "name": "ninjato:qingji4"
+      }
+    ]
+  },
+  "qingji5": {
+    "subtitle": "sounds.ninjato.light_swing",
+    "sounds": [
+      {
+        "name": "ninjato:qingji5"
+      }
+    ]
+  },
+  "qingji6": {
+    "subtitle": "sounds.ninjato.light_swing",
+    "sounds": [
+      {
+        "name": "ninjato:qingji6"
+      }
+    ]
+  },
+  "qingjimingzhong1": {
+    "subtitle": "sounds.ninjato.light_hit",
+    "sounds": [
+      {
+        "name": "ninjato:qingjimingzhong1"
+      }
+    ]
+  },
+  "qingjimingzhong2": {
+    "subtitle": "sounds.ninjato.light_hit",
+    "sounds": [
+      {
+        "name": "ninjato:qingjimingzhong2"
+      }
+    ]
+  },
+  "zhongji1": {
+    "subtitle": "sounds.ninjato.heavy_swing",
+    "sounds": [
+      {
+        "name": "ninjato:zhongji1"
+      }
+    ]
+  },
+  "zhongji2": {
+    "subtitle": "sounds.ninjato.heavy_swing",
+    "sounds": [
+      {
+        "name": "ninjato:zhongji2"
+      }
+    ]
+  },
+  "zhongji3": {
+    "subtitle": "sounds.ninjato.heavy_swing",
+    "sounds": [
+      {
+        "name": "ninjato:zhongji3"
+      }
+    ]
+  },
+  "zhongjimingzhong1": {
+    "subtitle": "sounds.ninjato.heavy_hit",
+    "sounds": [
+      {
+        "name": "ninjato:zhongjimingzhong1"
+      }
+    ]
+  },
+  "zhongjimingzhong2": {
+    "subtitle": "sounds.ninjato.heavy_hit",
+    "sounds": [
+      {
+        "name": "ninjato:zhongjimingzhong2"
+      }
+    ]
+  },
+  "zhongjimingzhong3": {
+    "subtitle": "sounds.ninjato.heavy_hit",
+    "sounds": [
+      {
+        "name": "ninjato:zhongjimingzhong3"
+      }
+    ]
+  }
+}

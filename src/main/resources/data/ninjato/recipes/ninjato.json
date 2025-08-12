@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sword",
+  "key": {
+    "N": {"item": "minecraft:netherite_ingot"},
+    "D": {"item": "minecraft:diamond"}
+  },
+  "pattern": [
+    "N",
+    "N",
+    "D"
+  ],
+  "result": {
+    "item": "ninjato:ninjato"
+  },
+  "show_notification": true
+}
